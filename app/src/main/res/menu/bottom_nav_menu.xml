@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_movies"
+        android:icon="@drawable/ic_camera"
+        android:title="" />
+
+    <!-- <item
+         android:id="@+id/navigation_tv"
+         android:title=""
+         android:icon="@drawable/ic_tv"/>-->
+
+    <item
+        android:id="@+id/navigation_search"
+        android:icon="@drawable/ic_search"
+        android:title="" />
+</menu>

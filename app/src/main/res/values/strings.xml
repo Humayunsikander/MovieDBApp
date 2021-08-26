@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MovieDBApp</string>
+    <string name="movies">Movies</string>
+    <string name="poster">Poster</string>
+    <string name="popular">Popular</string>
+    <string name="topRated">TopRated</string>
+    <string name="upcoming">UpComing</string>
+    <string name="viewAll">View All</string>
+    <string name="nowPlaying">Now Playing</string>
+    <string name="onTheAir">OnThe Air</string>
+    <string name="searchMovies">Search Movies By Name</string>
+    <string name="budget">Budget</string>
+    <string name="duration">Duration</string>
+    <string name="releaseDate">Release Date</string>
+    <string name="genres">Genres</string>
+</resources>
